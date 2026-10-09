@@ -1,0 +1,15 @@
+# .NET
+bin/
+obj/
+*.user
+.vs/
+.keys/
+TestResults/
+# Node
+node_modules/
+dist/
+# Misc
+.env
+.env.*
+!.env.example
+.DS_Store

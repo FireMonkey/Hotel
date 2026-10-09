@@ -1,0 +1,49 @@
+/*
+ * Design tokens. Placeholder theme — replace this file (and base.css) with the
+ * Claude Design output. Components only reference these variables and the
+ * class names in base.css, so a new theme needs no component changes.
+ */
+:root {
+  --color-bg: #f6f7f9;
+  --color-surface: #ffffff;
+  --color-surface-muted: #f0f2f5;
+  --color-border: #dde1e7;
+  --color-text: #1b1f24;
+  --color-text-muted: #5b6573;
+  --color-primary: #1f4e79;
+  --color-primary-contrast: #ffffff;
+  --color-success: #1d7a46;
+  --color-warning: #a15c00;
+  --color-danger: #b42318;
+  --color-info: #175cd3;
+
+  --font-sans: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  --font-size-sm: 0.875rem;
+  --font-size-md: 1rem;
+  --font-size-lg: 1.25rem;
+  --font-size-xl: 1.75rem;
+
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-6: 24px;
+  --space-8: 32px;
+
+  --radius: 8px;
+  --shadow: 0 1px 2px rgb(16 24 40 / 6%), 0 1px 3px rgb(16 24 40 / 10%);
+  --content-width: 1200px;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-bg: #111418;
+    --color-surface: #1a1f25;
+    --color-surface-muted: #222831;
+    --color-border: #2f3742;
+    --color-text: #e8ebef;
+    --color-text-muted: #9aa4b2;
+    --color-primary: #5b9bd5;
+    --color-primary-contrast: #0b1520;
+  }
+}
