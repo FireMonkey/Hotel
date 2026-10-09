@@ -1,6 +1,6 @@
 # Demo verileri — tasarım için
 
-Kurgusal otel: **Lavanta Butik Otel, Kaş** (16 oda, 3 oda tipi). Bugün = **9 Ekim 2026**.
+Kurgusal otel: **Lavanta Otel ★★★, Kaş** (3 yıldızlı, 16 oda, 3 oda tipi). Bugün = **9 Ekim 2026**.
 Tüm dosyalar gerçek API'nin döndüreceği yapıyla birebir aynıdır; tasarım onaylanınca sahte veri yerine API bağlanır.
 Görseller `picsum.photos` yer tutucularıdır, gerçek fotoğraflarla değiştirilmeli. Para birimi TRY.
 

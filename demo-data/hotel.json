@@ -1,7 +1,7 @@
 {
-  "name": "Lavanta Butik Otel",
+  "name": "Lavanta Otel",
   "tagline": "Kaş'ın kalbinde, denize 150 metre",
-  "description": "Kaş'ın tarihi sokaklarında, Meis Adası manzaralı 16 odalı butik otel. Taş mimari, bahçede sabah kahvaltısı ve sonsuzluk havuzu.",
+  "description": "Kaş'ın tarihi sokaklarında, Meis Adası manzaralı 16 odalı, 3 yıldızlı otel. Taş mimari, bahçede sabah kahvaltısı ve sonsuzluk havuzu.",
   "address": "Hükümet Cd. No:12",
   "city": "Kaş, Antalya",
   "country": "TR",
@@ -25,5 +25,6 @@
     "Otopark",
     "Havalimanı transferi",
     "Evcil hayvan kabul edilir"
-  ]
+  ],
+  "starRating": 3
 }
