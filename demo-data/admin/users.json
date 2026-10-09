@@ -1,0 +1,38 @@
+[
+  {
+    "id": "e2aa7a5d-278e-400d-ba02-66efbe055787",
+    "email": "admin@lavantabutik.com",
+    "fullName": "Hakan Erdem",
+    "roles": [
+      "Admin"
+    ],
+    "locked": false
+  },
+  {
+    "id": "d56ce8ea-1959-4b5a-a7a8-f6366a35df59",
+    "email": "resepsiyon@lavantabutik.com",
+    "fullName": "Merve Aksoy",
+    "roles": [
+      "Staff"
+    ],
+    "locked": false
+  },
+  {
+    "id": "f065c817-687a-4850-9d9b-62317d45d8ef",
+    "email": "gece@lavantabutik.com",
+    "fullName": "Okan Tunç",
+    "roles": [
+      "Staff"
+    ],
+    "locked": false
+  },
+  {
+    "id": "b0b63bcf-0860-4833-879d-0cdaf396ea37",
+    "email": "stajyer@lavantabutik.com",
+    "fullName": "Ece Polat",
+    "roles": [
+      "Staff"
+    ],
+    "locked": true
+  }
+]

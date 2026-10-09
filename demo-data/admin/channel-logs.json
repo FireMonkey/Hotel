@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b303f438-fe21-40d0-8bbe-4aff9326dffd",
+    "direction": "Pull",
+    "operation": "reservations",
+    "success": true,
+    "itemCount": 2,
+    "message": "yeni 0, değişen 1, iptal 0",
+    "durationMs": 682,
+    "createdAt": "2026-10-09T11:59:00+03:00"
+  },
+  {
+    "id": "af908e3c-dd75-4e98-90e0-b95f0212b554",
+    "direction": "Push",
+    "operation": "ari",
+    "success": true,
+    "itemCount": 45,
+    "message": "2026-10-09 → 2026-12-08",
+    "durationMs": 1361,
+    "createdAt": "2026-10-09T11:52:00+03:00"
+  },
+  {
+    "id": "e776b886-d534-4e1d-bf29-84f5bec39a37",
+    "direction": "Push",
+    "operation": "ari",
+    "success": true,
+    "itemCount": 166,
+    "message": "2026-10-09 → 2026-11-29",
+    "durationMs": 1756,
+    "createdAt": "2026-10-09T11:45:00+03:00"
+  },
+  {
+    "id": "5a31b4cc-cd4b-49a9-9b68-9c883ae909fe",
+    "direction": "Pull",
+    "operation": "reservations",
+    "success": true,
+    "itemCount": 1,
+    "message": "yeni 2, değişen 0, iptal 0",
+    "durationMs": 1391,
+    "createdAt": "2026-10-09T11:38:00+03:00"
+  },
+  {
+    "id": "b88ec318-c16d-43ed-ad81-f8bd402913ec",
+    "direction": "Push",
+    "operation": "ari",
+    "success": true,
+    "itemCount": 357,
+    "message": "2026-10-09 → 2026-11-23",
+    "durationMs": 1836,
+    "createdAt": "2026-10-09T10:31:00+03:00"
+  },
+  {
+    "id": "e7457704-18df-4c3c-a0d4-de3d2303f6c6",
+    "direction": "Push",
+    "operation": "ari",
+    "success": true,
+    "itemCount": 341,
+    "message": "2026-10-09 → 2026-11-21",
+    "durationMs": 200,
+    "createdAt": "2026-10-09T10:24:00+03:00"
+  },
+  {
+    "id": "088a93ec-70d9-49f8-89e2-60744f1639a0",
+    "direction": "Pull",
+    "operation": "reservations",
+    "success": true,
+    "itemCount": 2,
+    "message": "yeni 2, değişen 0, iptal 0",
+    "durationMs": 304,
+    "createdAt": "2026-10-09T10:17:00+03:00"
+  },
+  {
+    "id": "bf5ae7e6-53a3-4d5a-8b8c-5bdce8dd5e5a",
+    "direction": "Push",
+    "operation": "ari",
+    "success": false,
+    "itemCount": 232,
+    "message": "Channex HTTP 503: Service temporarily unavailable",
+    "durationMs": 479,
+    "createdAt": "2026-10-09T10:10:00+03:00"
+  },
+  {
+    "id": "8a16a06c-c958-475e-a1d5-3971336749b5",
+    "direction": "Push",
+    "operation": "ari",
+    "success": true,
+    "itemCount": 207,
+    "message": "2026-10-09 → 2026-11-13",
+    "durationMs": 1147,
+    "createdAt": "2026-10-09T09:03:00+03:00"
+  },
+  {
+    "id": "2a1f955a-d499-4a99-85c4-5a3ee9da484a",
+    "direction": "Pull",
+    "operation": "reservations",
+    "success": true,
+    "itemCount": 2,
+    "message": "yeni 1, değişen 1, iptal 0",
+    "durationMs": 1648,
+    "createdAt": "2026-10-09T09:56:00+03:00"
+  },
+  {
+    "id": "1d7bc313-cde2-4f1c-96b6-0afcded255d0",
+    "direction": "Push",
+    "operation": "ari",
+    "success": true,
+    "itemCount": 259,
+    "message": "2026-10-09 → 2026-10-15",
+    "durationMs": 408,
+    "createdAt": "2026-10-09T09:49:00+03:00"
+  },
+  {
+    "id": "dc322c97-39c1-4262-b76c-8edec1101266",
+    "direction": "Push",
+    "operation": "ari",
+    "success": true,
+    "itemCount": 366,
+    "message": "2026-10-09 → 2026-11-26",
+    "durationMs": 1501,
+    "createdAt": "2026-10-09T09:42:00+03:00"
+  },
+  {
+    "id": "d882b5c1-f79e-4d70-a5bc-c272fadd7ea3",
+    "direction": "Pull",
+    "operation": "reservations",
+    "success": true,
+    "itemCount": 2,
+    "message": "yeni 0, değişen 1, iptal 0",
+    "durationMs": 148,
+    "createdAt": "2026-10-09T08:35:00+03:00"
+  },
+  {
+    "id": "746cdb77-1fa3-42e8-895c-cd9943b38eb4",
+    "direction": "Push",
+    "operation": "ari",
+    "success": true,
+    "itemCount": 208,
+    "message": "2026-10-09 → 2026-11-23",
+    "durationMs": 1653,
+    "createdAt": "2026-10-09T08:28:00+03:00"
+  },
+  {
+    "id": "618ae305-95a5-4afa-831d-029fac1e86d8",
+    "direction": "Push",
+    "operation": "ari",
+    "success": true,
+    "itemCount": 346,
+    "message": "2026-10-09 → 2026-11-03",
+    "durationMs": 341,
+    "createdAt": "2026-10-09T08:21:00+03:00"
+  },
+  {
+    "id": "066803ee-78b2-4549-bbdb-c09eacc216a0",
+    "direction": "Pull",
+    "operation": "reservations",
+    "success": true,
+    "itemCount": 2,
+    "message": "yeni 2, değişen 0, iptal 0",
+    "durationMs": 1446,
+    "createdAt": "2026-10-09T08:14:00+03:00"
+  },
+  {
+    "id": "76da3ca0-d2e8-4f38-a2a9-d4d8102efde5",
+    "direction": "Push",
+    "operation": "ari",
+    "success": true,
+    "itemCount": 378,
+    "message": "2026-10-09 → 2026-10-30",
+    "durationMs": 1449,
+    "createdAt": "2026-10-09T07:07:00+03:00"
+  },
+  {
+    "id": "0b9bd934-23c8-4d30-9dde-7969688613db",
+    "direction": "Push",
+    "operation": "ari",
+    "success": true,
+    "itemCount": 39,
+    "message": "2026-10-09 → 2026-10-30",
+    "durationMs": 1128,
+    "createdAt": "2026-10-09T07:00:00+03:00"
+  },
+  {
+    "id": "e3236d1a-3c1b-4acc-98e1-93311dba1267",
+    "direction": "Pull",
+    "operation": "reservations",
+    "success": true,
+    "itemCount": 1,
+    "message": "yeni 1, değişen 1, iptal 0",
+    "durationMs": 879,
+    "createdAt": "2026-10-09T07:53:00+03:00"
+  },
+  {
+    "id": "b24cc64f-be3e-4e57-b30a-9e32aba4fc03",
+    "direction": "Push",
+    "operation": "ari",
+    "success": true,
+    "itemCount": 296,
+    "message": "2026-10-09 → 2026-11-06",
+    "durationMs": 1322,
+    "createdAt": "2026-10-09T07:46:00+03:00"
+  }
+]

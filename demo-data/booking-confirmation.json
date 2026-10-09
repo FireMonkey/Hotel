@@ -1,0 +1,15 @@
+{
+  "reference": "HBSL65AHEK",
+  "roomTypeName": "Standart Oda",
+  "ratePlanName": "İade Edilemez, Sadece Oda",
+  "checkIn": "2026-11-19",
+  "checkOut": "2026-11-22",
+  "nights": 3,
+  "adults": 1,
+  "children": 0,
+  "guestName": "Ayşe Yılmaz",
+  "totalAmount": 7225.0,
+  "currency": "TRY",
+  "status": "Confirmed",
+  "canCancel": true
+}

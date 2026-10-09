@@ -1,0 +1,198 @@
+[
+  {
+    "id": "1a2a73ed-562b-4f79-8374-59eef50bea63",
+    "number": "101",
+    "floor": 1,
+    "roomTypeId": "bdd640fb-0667-4ad1-9c80-317fa3b1799d",
+    "roomTypeName": "Standart Oda",
+    "status": "Available",
+    "housekeeping": "Clean",
+    "notes": null,
+    "currentBooking": {
+      "id": "ff50bde4-3825-47b8-9cab-cc97663f1c97",
+      "reference": "HBJ9FDHKL5",
+      "guestName": "Gizem Kurt",
+      "checkOut": "2026-10-11"
+    }
+  },
+  {
+    "id": "5be6128e-18c2-4797-a142-ea7d17be3111",
+    "number": "102",
+    "floor": 1,
+    "roomTypeId": "bdd640fb-0667-4ad1-9c80-317fa3b1799d",
+    "roomTypeName": "Standart Oda",
+    "status": "Available",
+    "housekeeping": "Clean",
+    "notes": null,
+    "currentBooking": {
+      "id": "3a9bedd4-0f12-49e0-a18f-f6b6b535106e",
+      "reference": "HBECXERT9P",
+      "guestName": "Anna Müller",
+      "checkOut": "2026-10-11"
+    }
+  },
+  {
+    "id": "43b7a3a6-9a8d-4a03-980d-7b71d8f56413",
+    "number": "103",
+    "floor": 1,
+    "roomTypeId": "bdd640fb-0667-4ad1-9c80-317fa3b1799d",
+    "roomTypeName": "Standart Oda",
+    "status": "Available",
+    "housekeeping": "Clean",
+    "notes": null,
+    "currentBooking": null
+  },
+  {
+    "id": "759cde66-bacf-43d0-8b1f-9163ce9ff57f",
+    "number": "104",
+    "floor": 1,
+    "roomTypeId": "bdd640fb-0667-4ad1-9c80-317fa3b1799d",
+    "roomTypeName": "Standart Oda",
+    "status": "Maintenance",
+    "housekeeping": "Clean",
+    "notes": "Klima arızası, servis 11 Ekim'de geliyor",
+    "currentBooking": null
+  },
+  {
+    "id": "ec1b8ca1-f91e-4d4c-9ff4-9b7889463e85",
+    "number": "105",
+    "floor": 1,
+    "roomTypeId": "bdd640fb-0667-4ad1-9c80-317fa3b1799d",
+    "roomTypeName": "Standart Oda",
+    "status": "Available",
+    "housekeeping": "Clean",
+    "notes": null,
+    "currentBooking": null
+  },
+  {
+    "id": "4b0dbb41-8d52-48f1-942c-3fe860e7a113",
+    "number": "106",
+    "floor": 1,
+    "roomTypeId": "bdd640fb-0667-4ad1-9c80-317fa3b1799d",
+    "roomTypeName": "Standart Oda",
+    "status": "Available",
+    "housekeeping": "Dirty",
+    "notes": null,
+    "currentBooking": null
+  },
+  {
+    "id": "e2acf72f-9e57-4f7a-a0ee-89aed453dd32",
+    "number": "107",
+    "floor": 1,
+    "roomTypeId": "bdd640fb-0667-4ad1-9c80-317fa3b1799d",
+    "roomTypeName": "Standart Oda",
+    "status": "Available",
+    "housekeeping": "Clean",
+    "notes": null,
+    "currentBooking": null
+  },
+  {
+    "id": "3139d32c-93cd-49bf-9c94-1cf0dc98d2c1",
+    "number": "108",
+    "floor": 1,
+    "roomTypeId": "bdd640fb-0667-4ad1-9c80-317fa3b1799d",
+    "roomTypeName": "Standart Oda",
+    "status": "Available",
+    "housekeeping": "Clean",
+    "notes": null,
+    "currentBooking": null
+  },
+  {
+    "id": "a9488d99-0bbb-4599-91ce-5dd2b45ed1f0",
+    "number": "201",
+    "floor": 2,
+    "roomTypeId": "17fc695a-07a0-4a6e-8822-e8f36c031199",
+    "roomTypeName": "Deluxe Deniz Manzaralı",
+    "status": "Available",
+    "housekeeping": "Clean",
+    "notes": null,
+    "currentBooking": {
+      "id": "287d06ca-6f4c-469a-8b22-d3081c8eaee9",
+      "reference": "HB7ASMGVNK",
+      "guestName": "Burak Çelik",
+      "checkOut": "2026-10-10"
+    }
+  },
+  {
+    "id": "fc377a4c-4a15-444d-85e7-ce8a3a578a8e",
+    "number": "202",
+    "floor": 2,
+    "roomTypeId": "17fc695a-07a0-4a6e-8822-e8f36c031199",
+    "roomTypeName": "Deluxe Deniz Manzaralı",
+    "status": "Available",
+    "housekeeping": "Inspected",
+    "notes": null,
+    "currentBooking": {
+      "id": "d0e6e660-7c69-4ee1-bb5e-4bcf15ed6269",
+      "reference": "HBEJJ8LS5P",
+      "guestName": "Gizem Kurt",
+      "checkOut": "2026-10-10"
+    }
+  },
+  {
+    "id": "ddd1dfb2-3b98-4ef8-9af6-1a26146d3f31",
+    "number": "203",
+    "floor": 2,
+    "roomTypeId": "17fc695a-07a0-4a6e-8822-e8f36c031199",
+    "roomTypeName": "Deluxe Deniz Manzaralı",
+    "status": "Available",
+    "housekeeping": "Dirty",
+    "notes": null,
+    "currentBooking": null
+  },
+  {
+    "id": "7412b293-4729-4739-a14f-f3d719db3ad0",
+    "number": "204",
+    "floor": 2,
+    "roomTypeId": "17fc695a-07a0-4a6e-8822-e8f36c031199",
+    "roomTypeName": "Deluxe Deniz Manzaralı",
+    "status": "Available",
+    "housekeeping": "Clean",
+    "notes": null,
+    "currentBooking": null
+  },
+  {
+    "id": "29a3b2e9-5d65-4441-9588-42dea2bc372f",
+    "number": "205",
+    "floor": 2,
+    "roomTypeId": "17fc695a-07a0-4a6e-8822-e8f36c031199",
+    "roomTypeName": "Deluxe Deniz Manzaralı",
+    "status": "Available",
+    "housekeeping": "Clean",
+    "notes": null,
+    "currentBooking": null
+  },
+  {
+    "id": "ab9099a4-35a2-40ae-9af3-05535ec42e08",
+    "number": "206",
+    "floor": 2,
+    "roomTypeId": "17fc695a-07a0-4a6e-8822-e8f36c031199",
+    "roomTypeName": "Deluxe Deniz Manzaralı",
+    "status": "Available",
+    "housekeeping": "Clean",
+    "notes": null,
+    "currentBooking": null
+  },
+  {
+    "id": "aefcfad8-efc8-4849-b3aa-7efe4458a885",
+    "number": "301",
+    "floor": 3,
+    "roomTypeId": "47378190-96da-4dac-b2ff-5d2a386ecbe0",
+    "roomTypeName": "Aile Suiti",
+    "status": "Available",
+    "housekeeping": "Clean",
+    "notes": null,
+    "currentBooking": null
+  },
+  {
+    "id": "a28defe3-9bf0-4273-9247-6f57a5e5a5ab",
+    "number": "302",
+    "floor": 3,
+    "roomTypeId": "47378190-96da-4dac-b2ff-5d2a386ecbe0",
+    "roomTypeName": "Aile Suiti",
+    "status": "Available",
+    "housekeeping": "Clean",
+    "notes": null,
+    "currentBooking": null
+  }
+]

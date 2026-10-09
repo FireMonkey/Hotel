@@ -1,0 +1,2097 @@
+{
+  "to": "2026-10-30",
+  "roomTypes": [
+    {
+      "roomTypeId": "bdd640fb-0667-4ad1-9c80-317fa3b1799d",
+      "name": "Standart Oda",
+      "currency": "TRY",
+      "inventory": [
+        {
+          "date": "2026-10-09",
+          "physicalRooms": 7,
+          "sellable": 7,
+          "booked": 2,
+          "available": 5,
+          "hasOverride": false
+        },
+        {
+          "date": "2026-10-10",
+          "physicalRooms": 7,
+          "sellable": 7,
+          "booked": 2,
+          "available": 5,
+          "hasOverride": false
+        },
+        {
+          "date": "2026-10-11",
+          "physicalRooms": 7,
+          "sellable": 7,
+          "booked": 0,
+          "available": 7,
+          "hasOverride": false
+        },
+        {
+          "date": "2026-10-12",
+          "physicalRooms": 7,
+          "sellable": 7,
+          "booked": 0,
+          "available": 7,
+          "hasOverride": false
+        },
+        {
+          "date": "2026-10-13",
+          "physicalRooms": 7,
+          "sellable": 7,
+          "booked": 0,
+          "available": 7,
+          "hasOverride": false
+        },
+        {
+          "date": "2026-10-14",
+          "physicalRooms": 7,
+          "sellable": 7,
+          "booked": 0,
+          "available": 7,
+          "hasOverride": false
+        },
+        {
+          "date": "2026-10-15",
+          "physicalRooms": 7,
+          "sellable": 7,
+          "booked": 1,
+          "available": 6,
+          "hasOverride": false
+        },
+        {
+          "date": "2026-10-16",
+          "physicalRooms": 7,
+          "sellable": 7,
+          "booked": 0,
+          "available": 7,
+          "hasOverride": false
+        },
+        {
+          "date": "2026-10-17",
+          "physicalRooms": 7,
+          "sellable": 7,
+          "booked": 0,
+          "available": 7,
+          "hasOverride": false
+        },
+        {
+          "date": "2026-10-18",
+          "physicalRooms": 7,
+          "sellable": 7,
+          "booked": 0,
+          "available": 7,
+          "hasOverride": false
+        },
+        {
+          "date": "2026-10-19",
+          "physicalRooms": 7,
+          "sellable": 6,
+          "booked": 1,
+          "available": 5,
+          "hasOverride": true
+        },
+        {
+          "date": "2026-10-20",
+          "physicalRooms": 7,
+          "sellable": 6,
+          "booked": 1,
+          "available": 5,
+          "hasOverride": true
+        },
+        {
+          "date": "2026-10-21",
+          "physicalRooms": 7,
+          "sellable": 6,
+          "booked": 0,
+          "available": 6,
+          "hasOverride": true
+        },
+        {
+          "date": "2026-10-22",
+          "physicalRooms": 7,
+          "sellable": 7,
+          "booked": 0,
+          "available": 7,
+          "hasOverride": false
+        },
+        {
+          "date": "2026-10-23",
+          "physicalRooms": 7,
+          "sellable": 7,
+          "booked": 1,
+          "available": 6,
+          "hasOverride": false
+        },
+        {
+          "date": "2026-10-24",
+          "physicalRooms": 7,
+          "sellable": 7,
+          "booked": 2,
+          "available": 5,
+          "hasOverride": false
+        },
+        {
+          "date": "2026-10-25",
+          "physicalRooms": 7,
+          "sellable": 7,
+          "booked": 2,
+          "available": 5,
+          "hasOverride": false
+        },
+        {
+          "date": "2026-10-26",
+          "physicalRooms": 7,
+          "sellable": 7,
+          "booked": 2,
+          "available": 5,
+          "hasOverride": false
+        },
+        {
+          "date": "2026-10-27",
+          "physicalRooms": 7,
+          "sellable": 7,
+          "booked": 1,
+          "available": 6,
+          "hasOverride": false
+        },
+        {
+          "date": "2026-10-28",
+          "physicalRooms": 7,
+          "sellable": 7,
+          "booked": 1,
+          "available": 6,
+          "hasOverride": false
+        },
+        {
+          "date": "2026-10-29",
+          "physicalRooms": 7,
+          "sellable": 7,
+          "booked": 0,
+          "available": 7,
+          "hasOverride": false
+        }
+      ],
+      "ratePlans": [
+        {
+          "ratePlanId": "23b8c1e9-3924-46de-beb1-3b9046685257",
+          "name": "Oda + Kahvaltı",
+          "days": [
+            {
+              "date": "2026-10-09",
+              "price": 3000.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": false
+            },
+            {
+              "date": "2026-10-10",
+              "price": 3000.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": false
+            },
+            {
+              "date": "2026-10-11",
+              "price": 2500.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-12",
+              "price": 2500.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-13",
+              "price": 2500.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-14",
+              "price": 2500.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-15",
+              "price": 2500.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-16",
+              "price": 3000.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": false
+            },
+            {
+              "date": "2026-10-17",
+              "price": 3000.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": false
+            },
+            {
+              "date": "2026-10-18",
+              "price": 2500.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-19",
+              "price": 2500.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-20",
+              "price": 2500.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-21",
+              "price": 2500.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-22",
+              "price": 2500.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-23",
+              "price": 3000.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": false
+            },
+            {
+              "date": "2026-10-24",
+              "price": 3000.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": false
+            },
+            {
+              "date": "2026-10-25",
+              "price": 2500.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-26",
+              "price": 2500.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-27",
+              "price": 2500.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-28",
+              "price": 2500.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-29",
+              "price": 2500.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            }
+          ]
+        },
+        {
+          "ratePlanId": "bd9c66b3-ad3c-4d6d-9a3d-1fa7bc8960a9",
+          "name": "İade Edilemez, Sadece Oda",
+          "days": [
+            {
+              "date": "2026-10-09",
+              "price": 2550.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": false
+            },
+            {
+              "date": "2026-10-10",
+              "price": 2550.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": false
+            },
+            {
+              "date": "2026-10-11",
+              "price": 2125.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-12",
+              "price": 2125.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-13",
+              "price": 2125.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-14",
+              "price": 2125.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-15",
+              "price": 2125.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-16",
+              "price": 2550.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": false
+            },
+            {
+              "date": "2026-10-17",
+              "price": 2550.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": false
+            },
+            {
+              "date": "2026-10-18",
+              "price": 2125.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-19",
+              "price": 2125.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-20",
+              "price": 2125.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-21",
+              "price": 2125.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-22",
+              "price": 2125.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-23",
+              "price": 2550.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": false
+            },
+            {
+              "date": "2026-10-24",
+              "price": 2550.0,
+              "minStay": 1,
+              "stopSell": true,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": false
+            },
+            {
+              "date": "2026-10-25",
+              "price": 2125.0,
+              "minStay": 1,
+              "stopSell": true,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-26",
+              "price": 2125.0,
+              "minStay": 1,
+              "stopSell": true,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-27",
+              "price": 2125.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-28",
+              "price": 2125.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-29",
+              "price": 2125.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "roomTypeId": "17fc695a-07a0-4a6e-8822-e8f36c031199",
+      "name": "Deluxe Deniz Manzaralı",
+      "currency": "TRY",
+      "inventory": [
+        {
+          "date": "2026-10-09",
+          "physicalRooms": 6,
+          "sellable": 6,
+          "booked": 3,
+          "available": 3,
+          "hasOverride": false
+        },
+        {
+          "date": "2026-10-10",
+          "physicalRooms": 6,
+          "sellable": 6,
+          "booked": 1,
+          "available": 5,
+          "hasOverride": false
+        },
+        {
+          "date": "2026-10-11",
+          "physicalRooms": 6,
+          "sellable": 6,
+          "booked": 0,
+          "available": 6,
+          "hasOverride": false
+        },
+        {
+          "date": "2026-10-12",
+          "physicalRooms": 6,
+          "sellable": 6,
+          "booked": 0,
+          "available": 6,
+          "hasOverride": false
+        },
+        {
+          "date": "2026-10-13",
+          "physicalRooms": 6,
+          "sellable": 6,
+          "booked": 1,
+          "available": 5,
+          "hasOverride": false
+        },
+        {
+          "date": "2026-10-14",
+          "physicalRooms": 6,
+          "sellable": 6,
+          "booked": 1,
+          "available": 5,
+          "hasOverride": false
+        },
+        {
+          "date": "2026-10-15",
+          "physicalRooms": 6,
+          "sellable": 6,
+          "booked": 1,
+          "available": 5,
+          "hasOverride": false
+        },
+        {
+          "date": "2026-10-16",
+          "physicalRooms": 6,
+          "sellable": 6,
+          "booked": 1,
+          "available": 5,
+          "hasOverride": false
+        },
+        {
+          "date": "2026-10-17",
+          "physicalRooms": 6,
+          "sellable": 6,
+          "booked": 1,
+          "available": 5,
+          "hasOverride": false
+        },
+        {
+          "date": "2026-10-18",
+          "physicalRooms": 6,
+          "sellable": 6,
+          "booked": 1,
+          "available": 5,
+          "hasOverride": false
+        },
+        {
+          "date": "2026-10-19",
+          "physicalRooms": 6,
+          "sellable": 6,
+          "booked": 1,
+          "available": 5,
+          "hasOverride": false
+        },
+        {
+          "date": "2026-10-20",
+          "physicalRooms": 6,
+          "sellable": 6,
+          "booked": 0,
+          "available": 6,
+          "hasOverride": false
+        },
+        {
+          "date": "2026-10-21",
+          "physicalRooms": 6,
+          "sellable": 6,
+          "booked": 0,
+          "available": 6,
+          "hasOverride": false
+        },
+        {
+          "date": "2026-10-22",
+          "physicalRooms": 6,
+          "sellable": 6,
+          "booked": 0,
+          "available": 6,
+          "hasOverride": false
+        },
+        {
+          "date": "2026-10-23",
+          "physicalRooms": 6,
+          "sellable": 6,
+          "booked": 0,
+          "available": 6,
+          "hasOverride": false
+        },
+        {
+          "date": "2026-10-24",
+          "physicalRooms": 6,
+          "sellable": 6,
+          "booked": 0,
+          "available": 6,
+          "hasOverride": false
+        },
+        {
+          "date": "2026-10-25",
+          "physicalRooms": 6,
+          "sellable": 6,
+          "booked": 0,
+          "available": 6,
+          "hasOverride": false
+        },
+        {
+          "date": "2026-10-26",
+          "physicalRooms": 6,
+          "sellable": 6,
+          "booked": 0,
+          "available": 6,
+          "hasOverride": false
+        },
+        {
+          "date": "2026-10-27",
+          "physicalRooms": 6,
+          "sellable": 6,
+          "booked": 1,
+          "available": 5,
+          "hasOverride": false
+        },
+        {
+          "date": "2026-10-28",
+          "physicalRooms": 6,
+          "sellable": 6,
+          "booked": 1,
+          "available": 5,
+          "hasOverride": false
+        },
+        {
+          "date": "2026-10-29",
+          "physicalRooms": 6,
+          "sellable": 6,
+          "booked": 1,
+          "available": 5,
+          "hasOverride": false
+        }
+      ],
+      "ratePlans": [
+        {
+          "ratePlanId": "9a1de644-815e-46d1-bb8f-aa1837f8a88b",
+          "name": "Oda + Kahvaltı",
+          "days": [
+            {
+              "date": "2026-10-09",
+              "price": 5040.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": false
+            },
+            {
+              "date": "2026-10-10",
+              "price": 5040.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": true,
+              "closedToDeparture": false,
+              "isDefault": false
+            },
+            {
+              "date": "2026-10-11",
+              "price": 4200.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-12",
+              "price": 4200.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-13",
+              "price": 4200.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-14",
+              "price": 4200.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-15",
+              "price": 4200.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-16",
+              "price": 5040.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": false
+            },
+            {
+              "date": "2026-10-17",
+              "price": 5040.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": true,
+              "closedToDeparture": false,
+              "isDefault": false
+            },
+            {
+              "date": "2026-10-18",
+              "price": 4200.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-19",
+              "price": 4200.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-20",
+              "price": 4200.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-21",
+              "price": 4200.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-22",
+              "price": 4200.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-23",
+              "price": 5040.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": false
+            },
+            {
+              "date": "2026-10-24",
+              "price": 5040.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": true,
+              "closedToDeparture": false,
+              "isDefault": false
+            },
+            {
+              "date": "2026-10-25",
+              "price": 4200.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-26",
+              "price": 4200.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-27",
+              "price": 4200.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-28",
+              "price": 4200.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-29",
+              "price": 4200.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            }
+          ]
+        },
+        {
+          "ratePlanId": "b74d0fb1-32e7-4629-8fad-c1a606cb0fb3",
+          "name": "İade Edilemez, Sadece Oda",
+          "days": [
+            {
+              "date": "2026-10-09",
+              "price": 4284.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": false
+            },
+            {
+              "date": "2026-10-10",
+              "price": 4284.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": true,
+              "closedToDeparture": false,
+              "isDefault": false
+            },
+            {
+              "date": "2026-10-11",
+              "price": 3570.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-12",
+              "price": 3570.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-13",
+              "price": 3570.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-14",
+              "price": 3570.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-15",
+              "price": 3570.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-16",
+              "price": 4284.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": false
+            },
+            {
+              "date": "2026-10-17",
+              "price": 4284.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": true,
+              "closedToDeparture": false,
+              "isDefault": false
+            },
+            {
+              "date": "2026-10-18",
+              "price": 3570.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-19",
+              "price": 3570.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-20",
+              "price": 3570.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-21",
+              "price": 3570.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-22",
+              "price": 3570.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-23",
+              "price": 4284.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": false
+            },
+            {
+              "date": "2026-10-24",
+              "price": 4284.0,
+              "minStay": 1,
+              "stopSell": true,
+              "closedToArrival": true,
+              "closedToDeparture": false,
+              "isDefault": false
+            },
+            {
+              "date": "2026-10-25",
+              "price": 3570.0,
+              "minStay": 1,
+              "stopSell": true,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-26",
+              "price": 3570.0,
+              "minStay": 1,
+              "stopSell": true,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-27",
+              "price": 3570.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-28",
+              "price": 3570.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-29",
+              "price": 3570.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            }
+          ]
+        },
+        {
+          "ratePlanId": "6b65a6a4-8b81-48f6-b38a-088ca65ed389",
+          "name": "Yarım Pansiyon",
+          "days": [
+            {
+              "date": "2026-10-09",
+              "price": 6300.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": false
+            },
+            {
+              "date": "2026-10-10",
+              "price": 6300.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": true,
+              "closedToDeparture": false,
+              "isDefault": false
+            },
+            {
+              "date": "2026-10-11",
+              "price": 5250.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-12",
+              "price": 5250.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-13",
+              "price": 5250.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-14",
+              "price": 5250.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-15",
+              "price": 5250.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-16",
+              "price": 6300.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": false
+            },
+            {
+              "date": "2026-10-17",
+              "price": 6300.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": true,
+              "closedToDeparture": false,
+              "isDefault": false
+            },
+            {
+              "date": "2026-10-18",
+              "price": 5250.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-19",
+              "price": 5250.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-20",
+              "price": 5250.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-21",
+              "price": 5250.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-22",
+              "price": 5250.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-23",
+              "price": 6300.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": false
+            },
+            {
+              "date": "2026-10-24",
+              "price": 6300.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": true,
+              "closedToDeparture": false,
+              "isDefault": false
+            },
+            {
+              "date": "2026-10-25",
+              "price": 5250.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-26",
+              "price": 5250.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-27",
+              "price": 5250.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-28",
+              "price": 5250.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-29",
+              "price": 5250.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "roomTypeId": "47378190-96da-4dac-b2ff-5d2a386ecbe0",
+      "name": "Aile Suiti",
+      "currency": "TRY",
+      "inventory": [
+        {
+          "date": "2026-10-09",
+          "physicalRooms": 2,
+          "sellable": 2,
+          "booked": 2,
+          "available": 0,
+          "hasOverride": false
+        },
+        {
+          "date": "2026-10-10",
+          "physicalRooms": 2,
+          "sellable": 2,
+          "booked": 1,
+          "available": 1,
+          "hasOverride": false
+        },
+        {
+          "date": "2026-10-11",
+          "physicalRooms": 2,
+          "sellable": 2,
+          "booked": 0,
+          "available": 2,
+          "hasOverride": false
+        },
+        {
+          "date": "2026-10-12",
+          "physicalRooms": 2,
+          "sellable": 2,
+          "booked": 1,
+          "available": 1,
+          "hasOverride": false
+        },
+        {
+          "date": "2026-10-13",
+          "physicalRooms": 2,
+          "sellable": 2,
+          "booked": 1,
+          "available": 1,
+          "hasOverride": false
+        },
+        {
+          "date": "2026-10-14",
+          "physicalRooms": 2,
+          "sellable": 2,
+          "booked": 2,
+          "available": 0,
+          "hasOverride": false
+        },
+        {
+          "date": "2026-10-15",
+          "physicalRooms": 2,
+          "sellable": 2,
+          "booked": 2,
+          "available": 0,
+          "hasOverride": false
+        },
+        {
+          "date": "2026-10-16",
+          "physicalRooms": 2,
+          "sellable": 2,
+          "booked": 2,
+          "available": 0,
+          "hasOverride": false
+        },
+        {
+          "date": "2026-10-17",
+          "physicalRooms": 2,
+          "sellable": 2,
+          "booked": 1,
+          "available": 1,
+          "hasOverride": false
+        },
+        {
+          "date": "2026-10-18",
+          "physicalRooms": 2,
+          "sellable": 2,
+          "booked": 1,
+          "available": 1,
+          "hasOverride": false
+        },
+        {
+          "date": "2026-10-19",
+          "physicalRooms": 2,
+          "sellable": 2,
+          "booked": 1,
+          "available": 1,
+          "hasOverride": false
+        },
+        {
+          "date": "2026-10-20",
+          "physicalRooms": 2,
+          "sellable": 2,
+          "booked": 1,
+          "available": 1,
+          "hasOverride": false
+        },
+        {
+          "date": "2026-10-21",
+          "physicalRooms": 2,
+          "sellable": 2,
+          "booked": 0,
+          "available": 2,
+          "hasOverride": false
+        },
+        {
+          "date": "2026-10-22",
+          "physicalRooms": 2,
+          "sellable": 2,
+          "booked": 0,
+          "available": 2,
+          "hasOverride": false
+        },
+        {
+          "date": "2026-10-23",
+          "physicalRooms": 2,
+          "sellable": 2,
+          "booked": 0,
+          "available": 2,
+          "hasOverride": false
+        },
+        {
+          "date": "2026-10-24",
+          "physicalRooms": 2,
+          "sellable": 2,
+          "booked": 0,
+          "available": 2,
+          "hasOverride": false
+        },
+        {
+          "date": "2026-10-25",
+          "physicalRooms": 2,
+          "sellable": 2,
+          "booked": 0,
+          "available": 2,
+          "hasOverride": false
+        },
+        {
+          "date": "2026-10-26",
+          "physicalRooms": 2,
+          "sellable": 2,
+          "booked": 0,
+          "available": 2,
+          "hasOverride": false
+        },
+        {
+          "date": "2026-10-27",
+          "physicalRooms": 2,
+          "sellable": 2,
+          "booked": 0,
+          "available": 2,
+          "hasOverride": false
+        },
+        {
+          "date": "2026-10-28",
+          "physicalRooms": 2,
+          "sellable": 2,
+          "booked": 0,
+          "available": 2,
+          "hasOverride": false
+        },
+        {
+          "date": "2026-10-29",
+          "physicalRooms": 2,
+          "sellable": 2,
+          "booked": 0,
+          "available": 2,
+          "hasOverride": false
+        }
+      ],
+      "ratePlans": [
+        {
+          "ratePlanId": "c241330b-01a9-471f-9e8a-774bcf36d58b",
+          "name": "Oda + Kahvaltı",
+          "days": [
+            {
+              "date": "2026-10-09",
+              "price": 9000.0,
+              "minStay": 2,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": false
+            },
+            {
+              "date": "2026-10-10",
+              "price": 9000.0,
+              "minStay": 2,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": false
+            },
+            {
+              "date": "2026-10-11",
+              "price": 7500.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-12",
+              "price": 7500.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-13",
+              "price": 7500.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-14",
+              "price": 7500.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-15",
+              "price": 7500.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-16",
+              "price": 9000.0,
+              "minStay": 2,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": false
+            },
+            {
+              "date": "2026-10-17",
+              "price": 9000.0,
+              "minStay": 2,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": false
+            },
+            {
+              "date": "2026-10-18",
+              "price": 7500.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-19",
+              "price": 7500.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-20",
+              "price": 7500.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-21",
+              "price": 7500.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-22",
+              "price": 7500.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-23",
+              "price": 9000.0,
+              "minStay": 2,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": false
+            },
+            {
+              "date": "2026-10-24",
+              "price": 9000.0,
+              "minStay": 2,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": false
+            },
+            {
+              "date": "2026-10-25",
+              "price": 7500.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-26",
+              "price": 7500.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-27",
+              "price": 7500.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-28",
+              "price": 7500.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-29",
+              "price": 7500.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            }
+          ]
+        },
+        {
+          "ratePlanId": "6c307511-b2b9-437a-a8df-6ec4ce4a2bbd",
+          "name": "İade Edilemez, Sadece Oda",
+          "days": [
+            {
+              "date": "2026-10-09",
+              "price": 7650.0,
+              "minStay": 2,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": false
+            },
+            {
+              "date": "2026-10-10",
+              "price": 7650.0,
+              "minStay": 2,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": false
+            },
+            {
+              "date": "2026-10-11",
+              "price": 6375.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-12",
+              "price": 6375.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-13",
+              "price": 6375.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-14",
+              "price": 6375.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-15",
+              "price": 6375.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-16",
+              "price": 7650.0,
+              "minStay": 2,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": false
+            },
+            {
+              "date": "2026-10-17",
+              "price": 7650.0,
+              "minStay": 2,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": false
+            },
+            {
+              "date": "2026-10-18",
+              "price": 6375.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-19",
+              "price": 6375.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-20",
+              "price": 6375.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-21",
+              "price": 6375.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-22",
+              "price": 6375.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-23",
+              "price": 7650.0,
+              "minStay": 2,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": false
+            },
+            {
+              "date": "2026-10-24",
+              "price": 7650.0,
+              "minStay": 2,
+              "stopSell": true,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": false
+            },
+            {
+              "date": "2026-10-25",
+              "price": 6375.0,
+              "minStay": 1,
+              "stopSell": true,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-26",
+              "price": 6375.0,
+              "minStay": 1,
+              "stopSell": true,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-27",
+              "price": 6375.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-28",
+              "price": 6375.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-29",
+              "price": 6375.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            }
+          ]
+        },
+        {
+          "ratePlanId": "371ecd7b-27cd-4130-8722-9389571aa876",
+          "name": "Yarım Pansiyon",
+          "days": [
+            {
+              "date": "2026-10-09",
+              "price": 11250.0,
+              "minStay": 2,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": false
+            },
+            {
+              "date": "2026-10-10",
+              "price": 11250.0,
+              "minStay": 2,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": false
+            },
+            {
+              "date": "2026-10-11",
+              "price": 9375.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-12",
+              "price": 9375.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-13",
+              "price": 9375.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-14",
+              "price": 9375.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-15",
+              "price": 9375.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-16",
+              "price": 11250.0,
+              "minStay": 2,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": false
+            },
+            {
+              "date": "2026-10-17",
+              "price": 11250.0,
+              "minStay": 2,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": false
+            },
+            {
+              "date": "2026-10-18",
+              "price": 9375.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-19",
+              "price": 9375.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-20",
+              "price": 9375.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-21",
+              "price": 9375.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-22",
+              "price": 9375.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-23",
+              "price": 11250.0,
+              "minStay": 2,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": false
+            },
+            {
+              "date": "2026-10-24",
+              "price": 11250.0,
+              "minStay": 2,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": false
+            },
+            {
+              "date": "2026-10-25",
+              "price": 9375.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-26",
+              "price": 9375.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-27",
+              "price": 9375.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-28",
+              "price": 9375.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            },
+            {
+              "date": "2026-10-29",
+              "price": 9375.0,
+              "minStay": 1,
+              "stopSell": false,
+              "closedToArrival": false,
+              "closedToDeparture": false,
+              "isDefault": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "from": "2026-10-09"
+}

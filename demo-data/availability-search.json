@@ -1,0 +1,286 @@
+{
+  "query": {
+    "checkIn": "2026-10-23",
+    "checkOut": "2026-10-26",
+    "adults": 2,
+    "children": 0
+  },
+  "results": [
+    {
+      "roomTypeId": "bdd640fb-0667-4ad1-9c80-317fa3b1799d",
+      "code": "STD",
+      "name": "Standart Oda",
+      "description": "Şehir manzaralı, çift kişilik ya da iki ayrı yataklı konforlu oda.",
+      "maxAdults": 2,
+      "maxChildren": 1,
+      "sizeSquareMeters": 22,
+      "amenities": [
+        "Wi-Fi",
+        "Klima",
+        "Minibar",
+        "Akıllı TV",
+        "Duş"
+      ],
+      "imageUrls": [
+        "https://picsum.photos/seed/std-1/1200/800",
+        "https://picsum.photos/seed/std-2/1200/800",
+        "https://picsum.photos/seed/std-3/1200/800"
+      ],
+      "availableRooms": 5,
+      "rates": [
+        {
+          "ratePlanId": "bd9c66b3-ad3c-4d6d-9a3d-1fa7bc8960a9",
+          "code": "NR",
+          "name": "İade Edilemez, Sadece Oda",
+          "mealPlan": "RoomOnly",
+          "isRefundable": false,
+          "freeCancellationDays": null,
+          "totalPrice": 7225.0,
+          "averageNightlyPrice": 2408.33,
+          "currency": "TRY",
+          "nights": [
+            {
+              "date": "2026-10-23",
+              "price": 2550.0
+            },
+            {
+              "date": "2026-10-24",
+              "price": 2550.0
+            },
+            {
+              "date": "2026-10-25",
+              "price": 2125.0
+            }
+          ]
+        },
+        {
+          "ratePlanId": "23b8c1e9-3924-46de-beb1-3b9046685257",
+          "code": "BB",
+          "name": "Oda + Kahvaltı",
+          "mealPlan": "BedAndBreakfast",
+          "isRefundable": true,
+          "freeCancellationDays": 2,
+          "totalPrice": 8500.0,
+          "averageNightlyPrice": 2833.33,
+          "currency": "TRY",
+          "nights": [
+            {
+              "date": "2026-10-23",
+              "price": 3000.0
+            },
+            {
+              "date": "2026-10-24",
+              "price": 3000.0
+            },
+            {
+              "date": "2026-10-25",
+              "price": 2500.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "roomTypeId": "17fc695a-07a0-4a6e-8822-e8f36c031199",
+      "code": "DLX",
+      "name": "Deluxe Deniz Manzaralı",
+      "description": "Meis Adası manzaralı balkonlu, geniş oda.",
+      "maxAdults": 2,
+      "maxChildren": 2,
+      "sizeSquareMeters": 32,
+      "amenities": [
+        "Wi-Fi",
+        "Klima",
+        "Minibar",
+        "Akıllı TV",
+        "Balkon",
+        "Deniz manzarası",
+        "Kahve makinesi"
+      ],
+      "imageUrls": [
+        "https://picsum.photos/seed/dlx-1/1200/800",
+        "https://picsum.photos/seed/dlx-2/1200/800",
+        "https://picsum.photos/seed/dlx-3/1200/800"
+      ],
+      "availableRooms": 2,
+      "rates": [
+        {
+          "ratePlanId": "b74d0fb1-32e7-4629-8fad-c1a606cb0fb3",
+          "code": "NR",
+          "name": "İade Edilemez, Sadece Oda",
+          "mealPlan": "RoomOnly",
+          "isRefundable": false,
+          "freeCancellationDays": null,
+          "totalPrice": 12138.0,
+          "averageNightlyPrice": 4046.0,
+          "currency": "TRY",
+          "nights": [
+            {
+              "date": "2026-10-23",
+              "price": 4284.0
+            },
+            {
+              "date": "2026-10-24",
+              "price": 4284.0
+            },
+            {
+              "date": "2026-10-25",
+              "price": 3570.0
+            }
+          ]
+        },
+        {
+          "ratePlanId": "9a1de644-815e-46d1-bb8f-aa1837f8a88b",
+          "code": "BB",
+          "name": "Oda + Kahvaltı",
+          "mealPlan": "BedAndBreakfast",
+          "isRefundable": true,
+          "freeCancellationDays": 2,
+          "totalPrice": 14280.0,
+          "averageNightlyPrice": 4760.0,
+          "currency": "TRY",
+          "nights": [
+            {
+              "date": "2026-10-23",
+              "price": 5040.0
+            },
+            {
+              "date": "2026-10-24",
+              "price": 5040.0
+            },
+            {
+              "date": "2026-10-25",
+              "price": 4200.0
+            }
+          ]
+        },
+        {
+          "ratePlanId": "6b65a6a4-8b81-48f6-b38a-088ca65ed389",
+          "code": "HB",
+          "name": "Yarım Pansiyon",
+          "mealPlan": "HalfBoard",
+          "isRefundable": true,
+          "freeCancellationDays": 3,
+          "totalPrice": 17850.0,
+          "averageNightlyPrice": 5950.0,
+          "currency": "TRY",
+          "nights": [
+            {
+              "date": "2026-10-23",
+              "price": 6300.0
+            },
+            {
+              "date": "2026-10-24",
+              "price": 6300.0
+            },
+            {
+              "date": "2026-10-25",
+              "price": 5250.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "roomTypeId": "47378190-96da-4dac-b2ff-5d2a386ecbe0",
+      "code": "STE",
+      "name": "Aile Suiti",
+      "description": "İki yatak odası ve oturma alanıyla aileler için ideal suit.",
+      "maxAdults": 4,
+      "maxChildren": 2,
+      "sizeSquareMeters": 55,
+      "amenities": [
+        "Wi-Fi",
+        "Klima",
+        "Minibar",
+        "2 Akıllı TV",
+        "Oturma alanı",
+        "Küvet",
+        "Deniz manzarası"
+      ],
+      "imageUrls": [
+        "https://picsum.photos/seed/ste-1/1200/800",
+        "https://picsum.photos/seed/ste-2/1200/800",
+        "https://picsum.photos/seed/ste-3/1200/800"
+      ],
+      "availableRooms": 1,
+      "rates": [
+        {
+          "ratePlanId": "6c307511-b2b9-437a-a8df-6ec4ce4a2bbd",
+          "code": "NR",
+          "name": "İade Edilemez, Sadece Oda",
+          "mealPlan": "RoomOnly",
+          "isRefundable": false,
+          "freeCancellationDays": null,
+          "totalPrice": 21675.0,
+          "averageNightlyPrice": 7225.0,
+          "currency": "TRY",
+          "nights": [
+            {
+              "date": "2026-10-23",
+              "price": 7650.0
+            },
+            {
+              "date": "2026-10-24",
+              "price": 7650.0
+            },
+            {
+              "date": "2026-10-25",
+              "price": 6375.0
+            }
+          ]
+        },
+        {
+          "ratePlanId": "c241330b-01a9-471f-9e8a-774bcf36d58b",
+          "code": "BB",
+          "name": "Oda + Kahvaltı",
+          "mealPlan": "BedAndBreakfast",
+          "isRefundable": true,
+          "freeCancellationDays": 2,
+          "totalPrice": 25500.0,
+          "averageNightlyPrice": 8500.0,
+          "currency": "TRY",
+          "nights": [
+            {
+              "date": "2026-10-23",
+              "price": 9000.0
+            },
+            {
+              "date": "2026-10-24",
+              "price": 9000.0
+            },
+            {
+              "date": "2026-10-25",
+              "price": 7500.0
+            }
+          ]
+        },
+        {
+          "ratePlanId": "371ecd7b-27cd-4130-8722-9389571aa876",
+          "code": "HB",
+          "name": "Yarım Pansiyon",
+          "mealPlan": "HalfBoard",
+          "isRefundable": true,
+          "freeCancellationDays": 3,
+          "totalPrice": 31875.0,
+          "averageNightlyPrice": 10625.0,
+          "currency": "TRY",
+          "nights": [
+            {
+              "date": "2026-10-23",
+              "price": 11250.0
+            },
+            {
+              "date": "2026-10-24",
+              "price": 11250.0
+            },
+            {
+              "date": "2026-10-25",
+              "price": 9375.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

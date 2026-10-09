@@ -1,0 +1,29 @@
+{
+  "name": "Lavanta Butik Otel",
+  "tagline": "Kaş'ın kalbinde, denize 150 metre",
+  "description": "Kaş'ın tarihi sokaklarında, Meis Adası manzaralı 16 odalı butik otel. Taş mimari, bahçede sabah kahvaltısı ve sonsuzluk havuzu.",
+  "address": "Hükümet Cd. No:12",
+  "city": "Kaş, Antalya",
+  "country": "TR",
+  "phone": "+90 242 836 00 00",
+  "email": "info@lavantabutik.com",
+  "checkInTime": "14:00",
+  "checkOutTime": "12:00",
+  "currency": "TRY",
+  "latitude": 36.2006,
+  "longitude": 29.6388,
+  "imageUrls": [
+    "https://picsum.photos/seed/lavanta-hero/1200/800",
+    "https://picsum.photos/seed/lavanta-pool/1200/800",
+    "https://picsum.photos/seed/lavanta-garden/1200/800",
+    "https://picsum.photos/seed/lavanta-breakfast/1200/800"
+  ],
+  "facilities": [
+    "Ücretsiz Wi-Fi",
+    "Sonsuzluk havuzu",
+    "Açık büfe kahvaltı",
+    "Otopark",
+    "Havalimanı transferi",
+    "Evcil hayvan kabul edilir"
+  ]
+}

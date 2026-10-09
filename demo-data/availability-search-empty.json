@@ -1,0 +1,9 @@
+{
+  "query": {
+    "checkIn": "2026-10-10",
+    "checkOut": "2026-10-12",
+    "adults": 4,
+    "children": 2
+  },
+  "results": []
+}

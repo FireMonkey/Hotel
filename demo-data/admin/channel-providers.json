@@ -1,0 +1,102 @@
+[
+  {
+    "type": "Channex",
+    "displayName": "Channex (Kanal Yöneticisi)",
+    "description": "Booking.com, Expedia, Airbnb, Agoda ve 50+ OTA tek API üzerinden. Çoğu otel için önerilen yol.",
+    "supportsAriPush": true,
+    "supportsReservationPull": true,
+    "requiresPartnerCertification": false,
+    "fields": [
+      {
+        "key": "secret",
+        "label": "API anahtarı",
+        "isSecret": true,
+        "required": true,
+        "placeholder": null,
+        "help": null
+      },
+      {
+        "key": "baseUrl",
+        "label": "API adresi",
+        "isSecret": false,
+        "required": false,
+        "placeholder": "https://app.channex.io/api/v1",
+        "help": "Sandbox için https://staging.channex.io/api/v1"
+      }
+    ],
+    "documentationUrl": "https://docs.channex.io"
+  },
+  {
+    "type": "BookingCom",
+    "displayName": "Booking.com",
+    "description": "Doğrudan Booking.com Connectivity API (OTA XML). Connectivity Partner kimlik bilgileri gerekir.",
+    "supportsAriPush": true,
+    "supportsReservationPull": true,
+    "requiresPartnerCertification": true,
+    "fields": [
+      {
+        "key": "username",
+        "label": "Machine account kullanıcı adı",
+        "isSecret": false,
+        "required": true,
+        "placeholder": null,
+        "help": null
+      },
+      {
+        "key": "secret",
+        "label": "Machine account şifresi",
+        "isSecret": true,
+        "required": true,
+        "placeholder": null,
+        "help": null
+      }
+    ],
+    "documentationUrl": "https://developers.booking.com/connectivity/docs"
+  },
+  {
+    "type": "Expedia",
+    "displayName": "Expedia Group",
+    "description": "Expedia QuickConnect (EQC) — Expedia, Hotels.com, Vrbo. EQC kimlik bilgileri gerekir.",
+    "supportsAriPush": true,
+    "supportsReservationPull": true,
+    "requiresPartnerCertification": true,
+    "fields": [
+      {
+        "key": "username",
+        "label": "EQC kullanıcı adı",
+        "isSecret": false,
+        "required": true,
+        "placeholder": null,
+        "help": null
+      },
+      {
+        "key": "secret",
+        "label": "EQC şifresi",
+        "isSecret": true,
+        "required": true,
+        "placeholder": null,
+        "help": null
+      }
+    ],
+    "documentationUrl": "https://developers.expediagroup.com/supply/lodging"
+  },
+  {
+    "type": "ICal",
+    "displayName": "iCal (Airbnb, Vrbo…)",
+    "description": "Takvim senkronizasyonu. Tarihleri iki yönlü kapatır; fiyat ve misafir bilgisi taşımaz.",
+    "supportsAriPush": false,
+    "supportsReservationPull": true,
+    "requiresPartnerCertification": false,
+    "fields": [
+      {
+        "key": "source",
+        "label": "Kaynak etiketi (ör. Airbnb)",
+        "isSecret": false,
+        "required": false,
+        "placeholder": "Airbnb",
+        "help": null
+      }
+    ],
+    "documentationUrl": null
+  }
+]

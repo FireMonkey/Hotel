@@ -1,0 +1,96 @@
+{
+  "id": "fcd6bdca-5876-4d09-b1fa-f665711533f3",
+  "channel": "Channex",
+  "name": "Channex (Booking.com, Expedia, Agoda)",
+  "isEnabled": true,
+  "externalPropertyId": "7c1d2f4a-5b6e-4c3d-9a8b-1f2e3d4c5b6a",
+  "settings": {
+    "baseUrl": "https://app.channex.io/api/v1"
+  },
+  "hasSecret": true,
+  "commissionPercent": 15,
+  "rateMarkupPercent": 10,
+  "lastReservationPullAt": "2026-10-09T11:42:00+03:00",
+  "lastAriPushAt": "2026-10-09T11:44:00+03:00",
+  "lastError": null,
+  "mappings": [
+    {
+      "roomTypeId": "bdd640fb-0667-4ad1-9c80-317fa3b1799d",
+      "ratePlanId": null,
+      "externalRoomId": "rt-std-5949",
+      "externalRateId": null,
+      "importUrl": null
+    },
+    {
+      "roomTypeId": "bdd640fb-0667-4ad1-9c80-317fa3b1799d",
+      "ratePlanId": "23b8c1e9-3924-46de-beb1-3b9046685257",
+      "externalRoomId": "rt-std-5949",
+      "externalRateId": "rp-std-bb",
+      "importUrl": null
+    },
+    {
+      "roomTypeId": "bdd640fb-0667-4ad1-9c80-317fa3b1799d",
+      "ratePlanId": "bd9c66b3-ad3c-4d6d-9a3d-1fa7bc8960a9",
+      "externalRoomId": "rt-std-5949",
+      "externalRateId": "rp-std-nr",
+      "importUrl": null
+    },
+    {
+      "roomTypeId": "17fc695a-07a0-4a6e-8822-e8f36c031199",
+      "ratePlanId": null,
+      "externalRoomId": "rt-dlx-4263",
+      "externalRateId": null,
+      "importUrl": null
+    },
+    {
+      "roomTypeId": "17fc695a-07a0-4a6e-8822-e8f36c031199",
+      "ratePlanId": "9a1de644-815e-46d1-bb8f-aa1837f8a88b",
+      "externalRoomId": "rt-dlx-4263",
+      "externalRateId": "rp-dlx-bb",
+      "importUrl": null
+    },
+    {
+      "roomTypeId": "17fc695a-07a0-4a6e-8822-e8f36c031199",
+      "ratePlanId": "b74d0fb1-32e7-4629-8fad-c1a606cb0fb3",
+      "externalRoomId": "rt-dlx-4263",
+      "externalRateId": "rp-dlx-nr",
+      "importUrl": null
+    },
+    {
+      "roomTypeId": "17fc695a-07a0-4a6e-8822-e8f36c031199",
+      "ratePlanId": "6b65a6a4-8b81-48f6-b38a-088ca65ed389",
+      "externalRoomId": "rt-dlx-4263",
+      "externalRateId": "rp-dlx-hb",
+      "importUrl": null
+    },
+    {
+      "roomTypeId": "47378190-96da-4dac-b2ff-5d2a386ecbe0",
+      "ratePlanId": null,
+      "externalRoomId": "rt-ste-7302",
+      "externalRateId": null,
+      "importUrl": null
+    },
+    {
+      "roomTypeId": "47378190-96da-4dac-b2ff-5d2a386ecbe0",
+      "ratePlanId": "c241330b-01a9-471f-9e8a-774bcf36d58b",
+      "externalRoomId": "rt-ste-7302",
+      "externalRateId": "rp-ste-bb",
+      "importUrl": null
+    },
+    {
+      "roomTypeId": "47378190-96da-4dac-b2ff-5d2a386ecbe0",
+      "ratePlanId": "6c307511-b2b9-437a-a8df-6ec4ce4a2bbd",
+      "externalRoomId": "rt-ste-7302",
+      "externalRateId": "rp-ste-nr",
+      "importUrl": null
+    },
+    {
+      "roomTypeId": "47378190-96da-4dac-b2ff-5d2a386ecbe0",
+      "ratePlanId": "371ecd7b-27cd-4130-8722-9389571aa876",
+      "externalRoomId": "rt-ste-7302",
+      "externalRateId": "rp-ste-hb",
+      "importUrl": null
+    }
+  ],
+  "iCalExports": null
+}

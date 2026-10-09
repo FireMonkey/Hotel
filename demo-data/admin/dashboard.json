@@ -1,0 +1,255 @@
+{
+  "date": "2026-10-09",
+  "totalRooms": 15,
+  "arrivals": 3,
+  "departures": 2,
+  "inHouse": 4,
+  "pendingBookings": 2,
+  "overbookedBookings": 1,
+  "occupancy": [
+    {
+      "date": "2026-10-09",
+      "booked": 7,
+      "total": 15,
+      "percent": 46.7
+    },
+    {
+      "date": "2026-10-10",
+      "booked": 4,
+      "total": 15,
+      "percent": 26.7
+    },
+    {
+      "date": "2026-10-11",
+      "booked": 0,
+      "total": 15,
+      "percent": 0.0
+    },
+    {
+      "date": "2026-10-12",
+      "booked": 1,
+      "total": 15,
+      "percent": 6.7
+    },
+    {
+      "date": "2026-10-13",
+      "booked": 2,
+      "total": 15,
+      "percent": 13.3
+    },
+    {
+      "date": "2026-10-14",
+      "booked": 3,
+      "total": 15,
+      "percent": 20.0
+    },
+    {
+      "date": "2026-10-15",
+      "booked": 4,
+      "total": 15,
+      "percent": 26.7
+    },
+    {
+      "date": "2026-10-16",
+      "booked": 3,
+      "total": 15,
+      "percent": 20.0
+    },
+    {
+      "date": "2026-10-17",
+      "booked": 2,
+      "total": 15,
+      "percent": 13.3
+    },
+    {
+      "date": "2026-10-18",
+      "booked": 2,
+      "total": 15,
+      "percent": 13.3
+    },
+    {
+      "date": "2026-10-19",
+      "booked": 3,
+      "total": 15,
+      "percent": 20.0
+    },
+    {
+      "date": "2026-10-20",
+      "booked": 2,
+      "total": 15,
+      "percent": 13.3
+    },
+    {
+      "date": "2026-10-21",
+      "booked": 0,
+      "total": 15,
+      "percent": 0.0
+    },
+    {
+      "date": "2026-10-22",
+      "booked": 0,
+      "total": 15,
+      "percent": 0.0
+    },
+    {
+      "date": "2026-10-23",
+      "booked": 1,
+      "total": 15,
+      "percent": 6.7
+    },
+    {
+      "date": "2026-10-24",
+      "booked": 2,
+      "total": 15,
+      "percent": 13.3
+    },
+    {
+      "date": "2026-10-25",
+      "booked": 2,
+      "total": 15,
+      "percent": 13.3
+    },
+    {
+      "date": "2026-10-26",
+      "booked": 2,
+      "total": 15,
+      "percent": 13.3
+    },
+    {
+      "date": "2026-10-27",
+      "booked": 2,
+      "total": 15,
+      "percent": 13.3
+    },
+    {
+      "date": "2026-10-28",
+      "booked": 2,
+      "total": 15,
+      "percent": 13.3
+    },
+    {
+      "date": "2026-10-29",
+      "booked": 1,
+      "total": 15,
+      "percent": 6.7
+    },
+    {
+      "date": "2026-10-30",
+      "booked": 2,
+      "total": 15,
+      "percent": 13.3
+    },
+    {
+      "date": "2026-10-31",
+      "booked": 1,
+      "total": 15,
+      "percent": 6.7
+    },
+    {
+      "date": "2026-11-01",
+      "booked": 1,
+      "total": 15,
+      "percent": 6.7
+    },
+    {
+      "date": "2026-11-02",
+      "booked": 1,
+      "total": 15,
+      "percent": 6.7
+    },
+    {
+      "date": "2026-11-03",
+      "booked": 0,
+      "total": 15,
+      "percent": 0.0
+    },
+    {
+      "date": "2026-11-04",
+      "booked": 1,
+      "total": 15,
+      "percent": 6.7
+    },
+    {
+      "date": "2026-11-05",
+      "booked": 0,
+      "total": 15,
+      "percent": 0.0
+    },
+    {
+      "date": "2026-11-06",
+      "booked": 0,
+      "total": 15,
+      "percent": 0.0
+    },
+    {
+      "date": "2026-11-07",
+      "booked": 0,
+      "total": 15,
+      "percent": 0.0
+    }
+  ],
+  "revenueBySource": [
+    {
+      "source": "BookingCom",
+      "bookings": 12,
+      "revenue": 129452.0,
+      "commission": 19417.8
+    },
+    {
+      "source": "Direct",
+      "bookings": 7,
+      "revenue": 128750.0,
+      "commission": 0
+    },
+    {
+      "source": "Expedia",
+      "bookings": 6,
+      "revenue": 104580.0,
+      "commission": 18824.4
+    },
+    {
+      "source": "Airbnb",
+      "bookings": 4,
+      "revenue": 34615.0,
+      "commission": 1038.45
+    },
+    {
+      "source": "Admin",
+      "bookings": 1,
+      "revenue": 18000.0,
+      "commission": 0
+    },
+    {
+      "source": "Agoda",
+      "bookings": 2,
+      "revenue": 15500.0,
+      "commission": 2635.0
+    }
+  ],
+  "channels": [
+    {
+      "id": "fcd6bdca-5876-4d09-b1fa-f665711533f3",
+      "name": "Channex (Booking.com, Expedia, Agoda)",
+      "isEnabled": true,
+      "lastPull": "2026-10-09T11:42:00+03:00",
+      "lastPush": "2026-10-09T11:44:00+03:00",
+      "lastError": null
+    },
+    {
+      "id": "f6478986-a391-4c99-8c95-5f6a966b1964",
+      "name": "Airbnb",
+      "isEnabled": true,
+      "lastPull": "2026-10-09T11:40:00+03:00",
+      "lastPush": null,
+      "lastError": null
+    },
+    {
+      "id": "74f33103-4006-4ff2-b0b8-62ef6c9f82b9",
+      "name": "Booking.com (doğrudan)",
+      "isEnabled": false,
+      "lastPull": null,
+      "lastPush": null,
+      "lastError": "HTTP 401: Machine account is not authorized for this hotel"
+    }
+  ]
+}
